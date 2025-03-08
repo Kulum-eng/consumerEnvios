@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "amqplib": "^0.10.5"
+    "amqplib": "^0.10.5",
+    "consumerenvios": "file:"
   }
 }
